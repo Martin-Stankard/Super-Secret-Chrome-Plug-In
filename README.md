@@ -1,2 +1,2 @@
 # Super-Secret-Chrome-Plug-In
-likely 1st pass at a ui for Big Cartoony Killer Robot, an AI Automation UI
+probably never getting to Big Cartoony Killer Robot, an AI Automation UI but this would be after that
